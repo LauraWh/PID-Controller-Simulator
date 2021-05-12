@@ -3,7 +3,8 @@
 This code was written by Laura Whelan (c17303991@mytudublin.ie) as part of a Final Year Project in DT021A.
 
 This project will use an example of temperature control to illustrate PID control with an interactive interface. 
-This simulator has been created so that it can be used in a website browser.
+This simulator has been created so that it can be used in a website browser. 
+It is also available at this link: http://eleceng.dit.ie/dsp/elab/pid/
 
 The system visuals consist of a tank of liquid, a window and a radiator. 
 The control system will be used to get the liquid in the tank to a desired temperature or "set-point". 
